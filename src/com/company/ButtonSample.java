@@ -28,7 +28,7 @@ public class ButtonSample {
                 };
 
                 // Define MouseListener
-                MouseListener mouseListener = new MouseAdapter() {
+                MouseListener mouseListener = new MouseAdapter() { // ---> remember about Mouse Adapter
                     @Override
                     public void mousePressed(MouseEvent mouseEvent) {
                         super.mousePressed(mouseEvent);
