@@ -21,7 +21,7 @@ public class ActionTester {
                 menu.add(new JMenuItem(printAction));
 
                 JToolBar toolBar = new JToolBar();
-                toolBar.add(new);
+                //toolBar.add(new);
 
 
             }
